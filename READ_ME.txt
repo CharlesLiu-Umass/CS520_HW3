@@ -7,3 +7,5 @@ Script - holds the python scripts used to evaluate the experiments done in homew
 	test_unit - holds the unit test for both experiments. 
 		The first 5 unit tests for both experiments are spec-guided while the rest are the original unit test from homework 1.
 	test_gen_code.py - is the main file that imports the relavent files from the Script folder and when pytest is run, will generate a report
+
+HW3_Report.pdf - the write-up for this homework that was also uploaded to GradeScope
